@@ -1,4 +1,4 @@
 dfw.js
 ======
 
-dfw.js: call DarumaFramework.dll functions from Node
+dfw.js: call DarumaFramework.dll functions from Node.js
